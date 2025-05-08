@@ -1,14 +1,42 @@
 body {
-    margin: 0;
-    padding: 20px; 
-    background-color: white;
-    text-align: center;
+    font-family:Arial;
+    margin:0;
 
   }
 
-div {
-    border: 3px solid cyan;
-    padding: 5px 10px;
-    display: inline-block;
-    text-align: center;
-  }
+h1
+{
+    font-size:50px;
+
+}
+
+.name-highlight
+{
+    color:cyan;
+}
+
+.half-width
+{
+    width:40%;
+    float:left;
+    margin-left:20px;
+
+}
+
+.half-width img
+{
+    width:100%;
+}
+
+.top-section
+{
+    background-image: url("2.png");
+    width:100%;
+    background-repeat:no repeat;
+
+}
+section 
+{
+    height:500px;
+
+}
